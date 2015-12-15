@@ -1,4 +1,4 @@
-# SPROJ #
+# SPROJ Prevention of Unauthorised Data Transmission in Android Applications #
 Sproj
 
 ## Building ##
